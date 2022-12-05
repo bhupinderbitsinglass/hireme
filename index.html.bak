@@ -22,6 +22,6 @@
   <script src="assets/js/app1.js"></script>
      <script src="assets/js/jquery-ui.js"></script>
   <script type="text/javascript" src="assets/js/lib/jqueryui/jquery-ui.min.js"></script>
-<script src="runtime.74e45f7b98b68fbe.js" type="module"></script><script src="polyfills.252dbe78b264c8cc.js" type="module"></script><script src="main.d71ca8a81f180f45.js" type="module"></script>
+<script src="runtime.74e45f7b98b68fbe.js" type="module"></script><script src="polyfills.252dbe78b264c8cc.js" type="module"></script><script src="main.ca9ee058587528d8.js" type="module"></script>
 
 </body></html>
